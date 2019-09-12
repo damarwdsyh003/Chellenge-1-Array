@@ -5,6 +5,8 @@ TUGAS 1.2
 ![Alt Text](https://github.com/damarwdsyh003/Chellenge-1-Array/blob/master/Array1.0.png)
 TUGAS 2 ==ERROR==
 ![Alt Text](https://github.com/damarwdsyh003/Chellenge-1-Array/blob/master/Array2.png)
+TUGAS 3
+![Alt Text](https://github.com/damarwdsyh003/Chellenge-1-Array/blob/master/Array%203.png)
 # Chellenge 1 Array
 TEMAN 1
 ![Alt Text](https://github.com/damarwdsyh003/Chellenge-1-Array/blob/master/Teman%201.png)
